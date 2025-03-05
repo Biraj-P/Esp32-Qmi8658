@@ -1,0 +1,2 @@
+idf_component_register(SRCS CST816S.cpp QMI8658.cpp main.cc DEV_Config.cpp
+                    INCLUDE_DIRS "")
